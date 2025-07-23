@@ -26,7 +26,8 @@ Check out the live version here:
 
 | Home Page                          |
 |-----------------------------------|
-| ![Home](./assets/home.png)        |
+| ![Home](./src/assets/home.png) |
+
 
 > 💡 Make sure to check out the screenshot image paths depending on your folder structure (place them in an `assets/` folder or update paths accordingly).
 
