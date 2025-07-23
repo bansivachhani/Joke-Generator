@@ -5,7 +5,7 @@ A fun and simple **Joke Generator App** built using **React + Vite**. It fetches
 ## 🌐 Live Preview
 
 Check out the live version here:  
-🔗 [Joke Generator App](https://joke-generator-eight-iota.vercel.app/)
+🔗 [Joke Generator App](https://joke-generator-lake.vercel.app/)
 
 ## 🛠️ Features
 
